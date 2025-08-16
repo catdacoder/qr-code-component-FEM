@@ -49,7 +49,7 @@ This is my try for the [QR code component challenge on Frontend Mentor](https://
 
 ### Useful resources:
 
-- [Box-shadowing] (https://www.w3schools.com/css/css3_shadows_box.asp)
+- [Box-shadowing](https://www.w3schools.com/css/css3_shadows_box.asp)
 
 ## Author:
 
