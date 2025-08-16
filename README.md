@@ -24,7 +24,7 @@ This is my try for the [QR code component challenge on Frontend Mentor](https://
 
 ![](./images/Screenshot%202025-08-16%20at%2023-19-26%20Frontend%20Mentor%20QR%20code%20component.png)
 
-##Links:
+## Links:
 
 - https://github.com/catdacoder/qr-code-component-FEM
 - https://catdacoder.github.io/qr-code-component-FEM/
