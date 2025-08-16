@@ -27,7 +27,7 @@ This is my try for the [QR code component challenge on Frontend Mentor](https://
 ##Links:
 
 - https://github.com/catdacoder/qr-code-component-FEM
-- 
+- https://catdacoder.github.io/qr-code-component-FEM/
 
 ## My process
 
